@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+#
+# This file contains configurations for your blog site
+#
+
+# NAME OF YOUR SITE
+name: "KeKe Blog"
+# Short bio
+description: "Recording the learning process"
